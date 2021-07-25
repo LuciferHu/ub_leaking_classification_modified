@@ -7,3 +7,4 @@ from .ResNet18 import *
 from .shallowVGG8 import *
 from .PiczakNet import *
 from .shallowAlexNet_nopool import *
+from .ResNet12 import *
